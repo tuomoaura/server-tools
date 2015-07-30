@@ -21,7 +21,7 @@ addons path. To use it, in a terminal window run:
 
     $ ./odoo.py shell -d <dbname>
 
-This will initialize a server instance and then jump into a Pyhton
+This will initialize a server instance and then jump into a Python
 interactive shell, with full access to the Odoo API.
 
 Example session:
